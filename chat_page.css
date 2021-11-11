@@ -1,0 +1,66 @@
+body{
+    background-image: url("background 2.jpg");
+    background-position:center;
+background-size:cover;
+}
+
+h1{
+    color: rgb(2, 36, 2);
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+#send_btn{
+background-color: rgb(47, 180, 13);
+color: rgb(255, 255, 255);
+border-radius: 20px;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+    background-color: green;
+}
+
+.input_div_room_page
+{
+	width:80px;
+}
+
+.input_div label
+{
+	color: rgb(19, 121, 9);font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: rgba(206, 245, 144, 0.8);
+}
+.input_div_message_page label
+{
+	color: rgb(57, 112, 35);
+}
+.input_div_message_page #msg
+{
+	width: 50%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width:25%; 
+}
+.user_tick{
+    width: 20px;
+}
+.message_h4{
+    color: rgb(2, 36, 2);
+}
+h4{
+    color: rgb(2, 36, 2);
+}
